@@ -128,11 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Jupyter NB Checkpoints
-.ipynb_checkpoints/
-
-# exclude data from source control by default
-/data/
+# ChromaDB indexes
 .chroma/
 
 # Mac OS-specific storage files
